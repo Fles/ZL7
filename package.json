@@ -22,5 +22,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/node": "^11.11.3",
+    "lerna": "^3.13.1",
+    "typescript": "^3.3.3333"
+  }
 }

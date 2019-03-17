@@ -2,7 +2,7 @@
   "name": "@zl7/rack",
   "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "Nikola Horvat <nikolahr@gmail.com>",
+  "author": "Nikola Horvat <thefinalfrontend@gmail.com>",
   "homepage": "https://github.com/Fles/ZL7#readme",
   "license": "ISC",
   "main": "lib/rack.js",

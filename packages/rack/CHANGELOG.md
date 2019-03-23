@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.3.0](https://github.com/Fles/ZL7/compare/v1.1.2...v1.3.0) (2019-03-23)
+
+
+### Features
+
+* add id to packages ([c1e8053](https://github.com/Fles/ZL7/commit/c1e8053))
+
+
+
 # 1.2.0 (2019-03-20)
 
 

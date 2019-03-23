@@ -1,1 +1,5 @@
-export class Oscillator {}
+export class Oscillator {
+  get (id: number) {
+    return {}
+  }
+}

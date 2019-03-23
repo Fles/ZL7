@@ -1,1 +1,5 @@
-export class Rack {}
+export class Rack {
+  get (id: number) {
+    return {}
+  }
+}

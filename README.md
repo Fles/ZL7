@@ -1,5 +1,7 @@
 # ZL7
 
-Zing out of the box
+Zing!
 
-Organised and self-contained suite of elements and utilities for building Zing modules!
+Modules out of the box
+
+Organised and self-contained suite of elements and utilities for building modular system!

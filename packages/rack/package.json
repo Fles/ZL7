@@ -30,6 +30,6 @@
     "url": "https://github.com/Fles/ZL7/issues"
   },
   "devDependencies": {
-    "standard-version": "^5.0.2"
+    "standard-version": "^8.0.1"
   }
 }
